@@ -1,8 +1,8 @@
-name: open_file_safe
-description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
-version: 3.2.3
-author: arkatech
-homepage: https://github.com/arkatech-ir/open_file_safe
+name: open_file_safer
+description: A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html) A fork of https://github.com/arkatech-ir/open_file_safe since open_file_safe no longer mantained
+version: 3.2.4
+author: tempokit
+homepage: https://github.com/tempokit/open_file_safer
 
 dependencies:
   flutter:
